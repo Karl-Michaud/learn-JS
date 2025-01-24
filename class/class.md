@@ -74,3 +74,11 @@ We create an instance of a class using the `new` keyword just like in Java.
 ```javascript
 const example = new Example("Karl");
 ```
+
+## Inheritance
+
+Just like in Java, JavaScript uses the `extends` keyword to signify that there will be inheritance.
+
+## Abstract classes
+
+There are no abstract classes in JS, but they can be mimicked!
