@@ -1,0 +1,8 @@
+- **repeat(number)**: repeat a string number of times
+- **hasOwnProperty(key)**: check if object (dictionary) has given key
+- **length**: gives length of array, strings
+- **delete object[key]**: deletes key/value pair from object
+- **JSON.stringify()**: transforms to string given argument
+- **parseInt(string)**: converts to integer. Return NaN if not successful
+- **parseInt(string, base)**: converts string to number of given base. default is base 10
+- **Object.freeze(object)**: freezes the object s that it cannot be mutated. Stronger than the const keyword, as when we have a const object, we can still change the value of a given key, but we simply cant add or remove. Freeze makes it that nothing can change

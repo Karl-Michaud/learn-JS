@@ -62,3 +62,25 @@ other();
 ```
 
 We can think of the global variables existing separate from the stack frame when created. Global variables are stored in the global execution context, which can be thought of as a shared space that all code in the global scope can access.
+
+## Anonymous functions
+
+```javascript
+var magic = function() {
+    return 10; // as an example
+}
+```
+
+OR
+
+```javascript
+var magic = () => {
+    return 10;
+}
+```
+
+OR
+
+```javascript
+var magic = () => 10;
+```

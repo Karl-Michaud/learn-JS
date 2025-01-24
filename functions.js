@@ -26,3 +26,8 @@ function other() {
 }
 
 other();
+
+var magic = function() {
+    return 20;
+}
+console.log(magic());
