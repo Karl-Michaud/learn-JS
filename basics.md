@@ -11,20 +11,20 @@ In other words, NodeJS is a Javascript runtime environment. Javascript is a comp
 Finally, one last thing. In JavaScript, the semicolon is not required, but it is good practice to use it.
 With that in mind, we can proceed!
 
-# Standard output and comments
+## Standard output and comments
 
 1) In-line comment using //
 2) Multi-line comment using /* ... */
 3) Standard ouput using `console.log("this is am example")`
 
 
-# Data Types and Variables
+## Data Types and Variables
 
 Like any other Object-Oriented language, Javascript has types primitive and reference types.
 
 1) undefined: something that has not been yet defined. Like a variable that hasn't been set yet
 2) null: nothing
-3) boolean
+3) boolean: true or false
 4) string: immutable type
 5) symbol: immutable primitive value that is unique
 6) number: like the name suggest it is a number (int or float/double)

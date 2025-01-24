@@ -46,3 +46,13 @@ switch(val) {
     default: ...
 }
 ```
+
+## try-catch statement
+
+```javascript
+try {
+    // error prone statement
+} catch (error) {
+    // do something about the error
+}
+```
