@@ -28,6 +28,7 @@ Notice: `'5' != 5`  is false AND `'5' !== 5 ` is true
 
 - And operator: &&
 - Or operator: ||
+- ternary operator: condition ? value : else;  --> if condition is true then value, else
 
 
 ## Switch statement
